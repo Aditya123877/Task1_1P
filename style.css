@@ -1,0 +1,19 @@
+/* Adding a frame to the image */
+img {
+    border: 5px solid #ccc;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Aligning the references to the center */
+ul {
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Aligning the form to the center */
+form {
+    width: 50%;
+    margin: 0 auto;
+}
